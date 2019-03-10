@@ -106,6 +106,8 @@ venv.bak/
 # data
 Fremont.csv
 
+.DS_Store
+
 # vim
 *~
 
